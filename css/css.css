@@ -1,0 +1,36 @@
+.navbar-custom{
+    height: 115px;
+}
+
+.navbar-brand-custom{
+    margin-left: 100px !important;
+}
+
+.navbar-nav-custom{
+    margin-right: 100px !important;
+}
+
+.section-presentacion{
+    height: 785px !important;
+    
+}
+
+textarea::placeholder {
+    font-size: 24px;
+}
+
+footer ul {
+    padding:0;
+    height: fit-content;
+    list-style:none;
+    text-align:center;
+    margin-bottom:0;
+  }
+
+footer li {
+    max-width: 120px !important;
+    height: fit-content;
+    margin-top: 0 !important;
+    margin-left: 1em;
+    margin-right: 1em;
+}
